@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-# Data Science Basics
+# Class Title
 
 # General Information
-- Instructor: Luc Pitre
+- Instructor: fName lName
 - Place:
-- Time: Mondays -> 6:30PM to 8:30PM
+- Time: day -> start to end
 - Dates
-    - October 16th, 23rd, 30th
-    - November 6th
+    - Month day, day, Day
+    - Month day, day
 - [Syllabus - available here]()
 
 ## Requirements:

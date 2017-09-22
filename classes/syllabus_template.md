@@ -1,21 +1,21 @@
 ---
 layout: default
 ---
-# Java Basics Syllabus
+# Class Name Syllabus
 
 # General Information
-- Instructor: Luc Pitre
+- Instructor: fName lName
 - Place:
-- Time: Wednesdays -> 6:30PM to 8:30PM
+- Time: day -> start to end time
 - Dates
-    - October 18th, 25th
-    - November 1st, 8th
+    - month1 day, day
+    - month2 day, day
 
 #Outcomes and Expectations
 
 # Requirements
 - Books:
-    - Think Java
+    -
 - Computer that meets one of the following requirements:
     - Loaded with Windows 7, 8, or 10
     - Loaded with Mac OS version 10.6 or greater
@@ -23,43 +23,33 @@ layout: default
 
 # Day by Day Breakdown
 
-## Day 1 - October 18th
+## Day 1 - date
 - Topics Covered:
-    - Environment setup
-    - introduction to Eclipse and Java
-    - basics of computer memory and data types
-    - creating variables
-    - operators and basic math
-    - Strings
-    - output
-    - conditional statements
-- Projects:
-    - 
-- Challenges For Next Class:
     -
-
-## Day 2 - October 25th
-- Topics Covered:
-    - getting input
-    - loops
-    - functions
-    - passing data between functions
 - Projects:
     -
 - Challenges For Next Class:
     -
 
-## Day 3 - November 1st
+## Day 2 - date
 - Topics Covered:
-    - arrays
+    -
 - Projects:
     -
 - Challenges For Next Class:
     -
 
-## Day 4 - November 8th
+## Day 3 - date
 - Topics Covered:
-    - final project
+    -
+- Projects:
+    -
+- Challenges For Next Class:
+    -
+
+## Day 4 - date
+- Topics Covered:
+    -
 - Projects:
     -
 - Challenges For Next Class:
