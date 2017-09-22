@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Java Basics
 
 # General Information
 - Instructor: Luc Pitre
@@ -9,7 +10,7 @@ layout: default
 - Dates
     - October 18th, 25th
     - November 1st, 7th
-- Syllabus - available here
+- [Syllabus - available here](basic_syllabus.md)
 
 ## Requirements:
 - Books:
@@ -20,9 +21,6 @@ layout: default
     - Loaded with Ubuntu version 14 or greater (or equivalent distro)
 
 # Books and Other Reading Material
-
-
-# Evaluations
 
 
 # Videos

@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-# Data Science Basics
+# Web Development Basics
 
 # General Information
-- Instructor: Luc Pitre
+- Instructor: Portia Morrell
 - Place:
 - Time: day -> start to end
 - Dates

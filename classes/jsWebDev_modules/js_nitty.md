@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Data Science Basics
+# JavaScript Nitty Gritty
 
 # General Information
 - Instructor: Luc Pitre

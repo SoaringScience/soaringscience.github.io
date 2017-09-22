@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Java Basics Syllabus
 
 # General Information
 - Instructor: Luc Pitre
