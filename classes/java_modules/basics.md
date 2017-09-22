@@ -10,7 +10,7 @@ layout: default
 - Dates
     - October 18th, 25th
     - November 1st, 7th
-- [Syllabus - available here](basic_syllabus.md)
+- [Syllabus - available here](basics_syllabus.md)
 
 ## Requirements:
 - Books:
